@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<My_x0020_Database>
+  <MyTable>
+    <Id>1</Id>
+    <Name>Nergis</Name>
+    <Surname>Aktug</Surname>
+  </MyTable>
+  <MyTable>
+    <Id>1</Id>
+    <Name>Nergis</Name>
+    <Surname>Aktug</Surname>
+  </MyTable>
+  <MyTable>
+    <Id>4</Id>
+    <Name>canan</Name>
+    <Surname>Canlı</Surname>
+  </MyTable>
+  <MyTable>
+    <Id>15</Id>
+    <Name>Gamze</Name>
+    <Surname>Cakir</Surname>
+  </MyTable>
+</My_x0020_Database>
